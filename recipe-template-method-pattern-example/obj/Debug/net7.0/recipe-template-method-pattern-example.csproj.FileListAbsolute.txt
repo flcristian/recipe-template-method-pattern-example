@@ -1,0 +1,14 @@
+D:\mycode\csharp\design-patterns\recipe-template-method-pattern-example\recipe-template-method-pattern-example\bin\Debug\net7.0\recipe-template-method-pattern-example.exe
+D:\mycode\csharp\design-patterns\recipe-template-method-pattern-example\recipe-template-method-pattern-example\bin\Debug\net7.0\recipe-template-method-pattern-example.deps.json
+D:\mycode\csharp\design-patterns\recipe-template-method-pattern-example\recipe-template-method-pattern-example\bin\Debug\net7.0\recipe-template-method-pattern-example.runtimeconfig.json
+D:\mycode\csharp\design-patterns\recipe-template-method-pattern-example\recipe-template-method-pattern-example\bin\Debug\net7.0\recipe-template-method-pattern-example.dll
+D:\mycode\csharp\design-patterns\recipe-template-method-pattern-example\recipe-template-method-pattern-example\bin\Debug\net7.0\recipe-template-method-pattern-example.pdb
+D:\mycode\csharp\design-patterns\recipe-template-method-pattern-example\recipe-template-method-pattern-example\obj\Debug\net7.0\recipe-template-method-pattern-example.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\design-patterns\recipe-template-method-pattern-example\recipe-template-method-pattern-example\obj\Debug\net7.0\recipe-template-method-pattern-example.AssemblyInfoInputs.cache
+D:\mycode\csharp\design-patterns\recipe-template-method-pattern-example\recipe-template-method-pattern-example\obj\Debug\net7.0\recipe-template-method-pattern-example.AssemblyInfo.cs
+D:\mycode\csharp\design-patterns\recipe-template-method-pattern-example\recipe-template-method-pattern-example\obj\Debug\net7.0\recipe-template-method-pattern-example.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\design-patterns\recipe-template-method-pattern-example\recipe-template-method-pattern-example\obj\Debug\net7.0\recipe-template-method-pattern-example.dll
+D:\mycode\csharp\design-patterns\recipe-template-method-pattern-example\recipe-template-method-pattern-example\obj\Debug\net7.0\refint\recipe-template-method-pattern-example.dll
+D:\mycode\csharp\design-patterns\recipe-template-method-pattern-example\recipe-template-method-pattern-example\obj\Debug\net7.0\recipe-template-method-pattern-example.pdb
+D:\mycode\csharp\design-patterns\recipe-template-method-pattern-example\recipe-template-method-pattern-example\obj\Debug\net7.0\recipe-template-method-pattern-example.genruntimeconfig.cache
+D:\mycode\csharp\design-patterns\recipe-template-method-pattern-example\recipe-template-method-pattern-example\obj\Debug\net7.0\ref\recipe-template-method-pattern-example.dll
